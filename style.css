@@ -1,0 +1,57 @@
+header {
+  width: 93%;
+  margin-inline: auto;
+}
+
+main {
+  width: 95%;
+  margin-inline: auto;
+}
+
+.navbar-toggler-icon {
+  background-image: url(./AddedAssets/Menu-2--Streamline-Tabler.svg);
+}
+
+.nav-link {
+  color: rgba(255, 255, 255, 0.5) !important;
+  transition: color 0.3s ease-in-out;
+}
+.nav-link:hover {
+  color: white !important;
+}
+
+.dropdown-menu {
+  background: black;
+}
+
+.dropdown-item {
+  color: aliceblue;
+}
+
+.card {
+  border: 0;
+}
+
+.card-img-top {
+  border-radius: 0;
+}
+
+.form-select {
+  width: 15%;
+  padding-left: 10px;
+  padding-block: 0;
+  background: transparent;
+}
+
+.form-btn {
+  font-size: 20px;
+  padding-inline: 40px;
+}
+
+.footer-container {
+  width: 60%;
+}
+
+p:last-of-type {
+  font-size: 10px;
+}/*# sourceMappingURL=style.css.map */
